@@ -1,0 +1,3 @@
+--module commonjs
+index.ts
+launch.ts
